@@ -1,7 +1,7 @@
 import pandas as pd
 import pickle
 
-data = pd.read_csv('data.csv')
+data = pd.read_csv('winequality-red.csv')
 
 #Slicing Data
 slice1 = data.iloc[0:399,:]
