@@ -42,4 +42,4 @@ file= open('shuffled.pkl','ab')
 pickle.dump(shuffled,file)
 file.close()
 
-print("Data has been mapped. Now, run reducer.py to reduce the contents in shuffled.pkl file.")
+print("Данные собраны. Запустите reducer.py")

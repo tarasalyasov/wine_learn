@@ -11,7 +11,7 @@
 
 ```3. python3 reducer.py```
 
-Average volatile acidity in different classes of wine: 
+Средняя летучая кислотность в разных сортах вина: 
 3.0 : 0.8845000000000001
 4.0 : 0.6939622641509429
 5.0 : 0.5767157584683352
