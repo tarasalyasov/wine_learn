@@ -19,7 +19,6 @@ def mapper(data):
         
     return mapped
 
-
 map1 = mapper(slice1)
 map2 = mapper(slice2)
 map3 = mapper(slice3)

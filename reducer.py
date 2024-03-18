@@ -12,7 +12,6 @@ def reduce(shuffled_dict):
     
     return reduced
 
-
 final = reduce(shuffled)
 
 print("Average volatile acidity in different classes of wine: ")
